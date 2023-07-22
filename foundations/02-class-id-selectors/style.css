@@ -1,0 +1,19 @@
+.odd-ball {
+    background-color: rgb(255, 153, 200);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two-blue {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#four-green {
+    background-color: rgb(0,255,0);
+    font-weight: bold;
+}
+
